@@ -1,0 +1,35 @@
+#Entete{
+background-color: rgb(244, 238, 247);
+max-height: 60%;
+min-height: 15%;
+max-width: 100%;
+}
+/* figure{
+    height: px;
+    width: 1000px;
+} */
+img{
+    background-size: 200px;
+    float: left;
+    height: 12%;
+    width: 12%;
+    padding-right: 5%;
+    border-radius: 50%;
+    box-shadow: 0 0 30px dimgrey;
+}
+header{
+    background: red;
+}
+header > h1{
+    position: relative;
+    top: 0;
+    left: 35%;
+
+
+}
+#main{
+    /* background-color: blueviolet; */
+}
+body{
+    background-color: aqua;
+}
